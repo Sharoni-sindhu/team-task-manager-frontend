@@ -1,16 +1,120 @@
-# React + Vite
+# 🚀 Team Task Manager - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive frontend for the **Team Task Manager** application built using **React**, **Vite**, and **Tailwind CSS**. This application allows users to securely manage projects and tasks with JWT authentication and role-based access.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Frontend:** https://YOUR-VERCEL-URL.vercel.app
 
-## React Compiler
+**Backend API:** https://YOUR-RAILWAY-URL.up.railway.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔐 User Authentication (Login & Signup)
+- 📋 Dashboard Overview
+- 📁 Project Management
+- ✅ Task Management
+- 🔍 Search Projects & Tasks
+- 🎯 Filter Tasks by Status & Priority
+- 🔒 JWT Token Authentication
+- 👥 Role-Based Access (Admin & Member)
+- 🔔 Toast Notifications
+- 📱 Responsive Design
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- Tailwind CSS
+- Axios
+- React Router DOM
+- React Toastify
+- React Icons
+
+---
+
+## 📂 Folder Structure
+
+```
+src/
+│── components/
+│── pages/
+│── services/
+│── layouts/
+│── assets/
+│── App.jsx
+│── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/team-task-manager-frontend.git
+```
+
+### Navigate
+
+```bash
+cd team-task-manager-frontend
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Create Environment File
+
+Create a `.env` file in the project root.
+
+```env
+VITE_API_URL=http://localhost:5000/api
+```
+
+### Run Project
+
+```bash
+npm run dev
+```
+
+Frontend runs at
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🌍 Deployment
+
+- Frontend: Vercel
+- Backend: Railway
+- Database: MongoDB Atlas
+
+---
+
+## 📷 Screenshots
+
+Add screenshots of:
+
+- Login Page
+- Dashboard
+- Projects Page
+- Tasks Page
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Your Name**
+
+GitHub: https://github.com/YOUR_USERNAME
