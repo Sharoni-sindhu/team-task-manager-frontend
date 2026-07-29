@@ -4,9 +4,9 @@ A modern and responsive frontend for the **Team Task Manager** application built
 
 ## 🌐 Live Demo
 
-**Frontend:** https://YOUR-VERCEL-URL.vercel.app
+**Frontend:** (https://team-task-manager-frontend-rouge.vercel.app/)
 
-**Backend API:** https://YOUR-RAILWAY-URL.up.railway.app
+**Backend API:** (https://team-task-manager-backend-production-b75f.up.railway.app/)
 
 ---
 
@@ -57,7 +57,7 @@ src/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/team-task-manager-frontend.git
+git clone https://github.com/Sharoni-sindhu/team-task-manager-frontend.git
 ```
 
 ### Navigate
@@ -115,6 +115,6 @@ Add screenshots of:
 
 ## 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by BARIGILLA SHARONI*
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Sharoni-sindhu
